@@ -16,5 +16,6 @@ Python code for replicating the simulation results in the paper "Optimal Bayesia
 * DMM algorithm of Wu and Yang (2000, Ann. Stat.) `dmm.py`
 
 
-Disclaimer:
+### Disclaimer
+
 The python files `discrete_rv.py`, `dmm.py`, `model_gm.py` and `moments.py` are taken from [https://github.com/albuso0/mixture](https://github.com/albuso0/mixture).
