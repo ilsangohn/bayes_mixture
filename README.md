@@ -6,7 +6,7 @@ Python code for replicating the simulation results in the paper "Optimal Bayesia
 ## Experiments
 
 * Mixing distribution estimation: `test_mixing.py`
-* The number of components estimation: `text_ncomp.py`
+* The number of components estimation: `test_ncomp.py`
 
 ## Methods
 
