@@ -1,6 +1,6 @@
 # Optimal Bayesian estimation of Gaussian mixtures with growing number of components
 
-Python code for replicating the simulation results in the paper "Optimal Bayesian estimation of Gaussian mixtures with growing number of components" [arXiv](https://arxiv.org/abs/2007.09284)
+Python code for replicating the simulation results in the paper "Optimal Bayesian estimation of Gaussian mixtures with growing number of components" [[arXiv]](https://arxiv.org/abs/2007.09284)
 
 
 ## Experiments
