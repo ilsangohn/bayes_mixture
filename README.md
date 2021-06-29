@@ -15,4 +15,6 @@ Python code for replicating the simulation results in the paper "Optimal Bayesia
 * Neal’s Algorithm 8 for DP mixtures `DP.py'
 * DMM algorithm of Wu and Yang (2000, Ann. Stat.) `dmm.py'
 
-### Disclaimer: The python files `discrete_rv.py', `dmm.py', `model_gm.py' and `moments.py' are taken from [https://github.com/albuso0/mixture](https://github.com/albuso0/mixture)
+
+Disclaimer:
+The python files `discrete_rv.py', `dmm.py', `model_gm.py' and `moments.py' are taken from [https://github.com/albuso0/mixture](https://github.com/albuso0/mixture)
