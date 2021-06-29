@@ -17,4 +17,4 @@ Python code for replicating the simulation results in the paper "Optimal Bayesia
 
 
 Disclaimer:
-The python files `discrete_rv.py`, `dmm.py`, `model_gm.py` and `moments.py` are taken from [https://github.com/albuso0/mixture](https://github.com/albuso0/mixture)
+The python files `discrete_rv.py`, `dmm.py`, `model_gm.py` and `moments.py` are taken from [https://github.com/albuso0/mixture](https://github.com/albuso0/mixture).
